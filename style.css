@@ -1,0 +1,90 @@
+body{
+    background-color: #e0e0e0;
+  }
+  footer {
+  
+    color: #595959;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+  
+  } 
+  strong {
+  
+    color: #2493df;
+  
+  } 
+  h1{
+  
+    font-size: 20px;
+    letter-spacing: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  
+  }
+  label{
+  
+    font-size: 16px;
+    font-weight: bold;
+    
+  }
+  section{
+    padding: 10px;
+    background-color: #ffffff;
+  
+  }
+  #buy{
+    background-color:  #687373;
+    margin-top: 10px;
+    color: #fcfcfc;
+    padding: 10px 10px 10px 10px;
+    position: fixed;
+    bottom: 0%;
+    right: 0%;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  #transport{
+    list-style-type: square;
+    list-style-position: inside;
+    padding-left: 30px;
+  }
+  table{
+    border-collapse: collapse;
+  }
+  th,td{
+    padding: 10px;
+    border: 1px solid black;
+  }
+  th{
+    background-color: #2493df;
+    color: white;
+    
+  }
+  input[type="number"] {
+  
+    padding:2px;
+    text-align: center;
+    width:50px;
+  
+  }
+  input[type="button"] {
+    background-color: #2493df;
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 100%;
+  }
+  form{
+    display: flex;
+  }
+  .form-section{
+    flex: 1;
+  }
+  img{
+    display: block;
+    margin: auto;
+    width: 40%;
+  }
